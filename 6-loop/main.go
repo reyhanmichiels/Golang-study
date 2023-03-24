@@ -6,7 +6,7 @@ func main() {
 	//basic for loop
 	count := 5
 	for i := 1; i <= count; i++ {
-		fmt.Println("angka", count)
+		fmt.Println("angka", i)
 	}
 
 	//for loop only condition
