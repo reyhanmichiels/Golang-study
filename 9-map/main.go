@@ -24,6 +24,4 @@ func main() {
 	//check map item is exist
 	_, isExist := mapWithInitialValue["James"]
 	fmt.Println(isExist)
-
-	
 }
